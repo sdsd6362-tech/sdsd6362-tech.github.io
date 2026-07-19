@@ -12,7 +12,7 @@ sass:
 
 plainwhite:
   name: 박선규
-  tagline: student
+  tagline: student, @xpert
   date_format: "%b %-d, %Y"
   sitemap: true
   search: true
