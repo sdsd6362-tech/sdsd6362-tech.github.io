@@ -17,7 +17,7 @@ plainwhite:
   sitemap: true
   search: true
   dark_mode: true
-  portfolio_image: "assets/bongboo.png"
+  portfolio_image: "assets/bangboo.png"
   html_lang: "en"
   condensed_mobile:
     - page
